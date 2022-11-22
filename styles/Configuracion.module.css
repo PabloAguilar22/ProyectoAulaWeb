@@ -1,0 +1,31 @@
+.contenedor{
+    width: 100vw;
+    height: 100vh;
+    background-color: darkslategray;
+}
+.sidebarContenedor{
+    position: fixed;
+    left: 1125px;
+    height: 100%;
+    width: 200px;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    padding-top: 20px;
+    padding-left: 26px;
+    padding-right: 26px;
+}
+.divLogo{
+    position: relative;
+    width: 150px;
+    height: 90px;
+    color: aliceblue;
+    font-size: 24px;
+    background-color: transparent;
+}
+.divOpciones{
+    position: relative;
+    width: 120px;
+    height: 70px;
+    background-color: aqua;
+}
